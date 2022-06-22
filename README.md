@@ -25,6 +25,6 @@ Kotlin solutions for below problems:
 * PermCheck
 * PermMissingElements
 * TapeEquilibrium
-* Triangle
+* Triangle 
 
 
